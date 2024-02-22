@@ -1,6 +1,7 @@
 # Product Landing Page
 
-freeCodeCamp product landing page project. \n
+freeCodeCamp product landing page project.
+
 TODO:
 
 1. Remake completely
